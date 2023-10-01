@@ -99,10 +99,10 @@ const educationInfo = {
       logo: require("./assets/images/fastLogo.png"),
       subHeader: "Bachelors of Science in Computer Science",
       duration: "August 2020 - August 2024",
-      desc: "Current CGPA: 3.82",
+      desc: "Current CGPA: 3.67",
       descBullets: [
         "Rector List (4 SGPA)",
-        "5 Consecutive Dean's List (> 3.5 SGPA)"
+        "3 Consecutive Dean's List (> 3.5 SGPA)"
       ]
     },
   ]
